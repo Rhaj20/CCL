@@ -41,7 +41,7 @@ Below are the sprites used to create the background, the characters and objects 
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="Cat_Walk.png" alt="Player Spritesheet" width="600">
+  <img src="images/Cat_Walk.png" alt="Player Spritesheet" width="600">
   <p>*Figure 5: Player character animation.*</p>
 </div>
 
@@ -49,7 +49,7 @@ Below are the sprites used to create the background, the characters and objects 
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="spritesheet (2).png" alt="Enemy Spritesheet" width="600">
+  <img src="images/spritesheet (2).png" alt="Enemy Spritesheet" width="600">
   <p>*Figure 6: Enemy animation.*</p>
 </div>
 
