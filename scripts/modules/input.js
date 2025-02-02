@@ -1,8 +1,7 @@
 import { global } from "./global.js";
 
 function move(event) {
-
-   //I have a french keyboard so the keys you need to click on are different
+//I have a french keyboard so the keys you need to click on are different
     switch(event.key) {
         case "d": //to move to right
             if (global.playerObject.xVelocity == 0)

@@ -93,7 +93,7 @@ global.restartButton.addEventListener('click', function() {
 });
 
 global.replayButton.addEventListener('click', function() {
-    window.location.href = "startPage.html";
+    window.location.href = "index.html";
 });
 
 setupGame();

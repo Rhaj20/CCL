@@ -1,5 +1,5 @@
 document.querySelector(".button-class").onclick = function () {
-    window.location.href = "index.html";
+    window.location.href = "index2.html";
 };
 
 document.querySelector(".button-class2").onclick = function () {
